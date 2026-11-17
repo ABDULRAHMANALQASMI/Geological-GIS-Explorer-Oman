@@ -1,0 +1,11 @@
+{
+  "asset": "assets/jabal-akhdar-saih-hatat-scharf2021.webp",
+  "figure": "Figure A.1, Scharf et al. (2021) Appendices",
+  "authors": "A. Scharf, F. Mattern, M. Al-Wardi, G. Frijia, D. Moraetis, B. Pracejus, W. Bauer & I. Callegari",
+  "year": 2021,
+  "doi": "10.1144/M54.7",
+  "license": "CC BY 4.0",
+  "source_pdf": "https://doi.org/10.1144/M54.7",
+  "modifications": "Converted PDF map image to optimized webp; no geographic labels or unit colors changed.",
+  "usage": "scientific visual reference; not georeferenced concession shapes"
+}

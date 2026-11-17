@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Neoproterozoic",
+    "interval": "ca. 725–540 Ma",
+    "summary": "Huqf basin development, glacigenic Abu Mahara, Nafun postglacial sedimentation, and Ara evaporite/carbonate deposition.",
+    "sources": [
+      "huqf2007",
+      "nafun2020"
+    ]
+  },
+  {
+    "name": "Paleozoic",
+    "interval": "Cambrian–Permian",
+    "summary": "Haima siliciclastic basin fill, Paleozoic platform evolution, and Late Carboniferous glaciogenic Haushi deposition.",
+    "sources": [
+      "haima2004",
+      "haushi2024"
+    ]
+  },
+  {
+    "name": "Triassic–Jurassic",
+    "interval": "Triassic–Late Jurassic",
+    "summary": "Carbonate platform evolution and Sahtan sequence development in central Oman.",
+    "sources": [
+      "jurassic2017",
+      "sahtan2017"
+    ]
+  },
+  {
+    "name": "Early–Late Cretaceous",
+    "interval": "Aptian–Turonian",
+    "summary": "Carbonate ramps, Shu’aiba platform settings, Natih intrashelf organic-rich facies.",
+    "sources": [
+      "natih2016",
+      "shuaiba2019"
+    ]
+  },
+  {
+    "name": "Late Cretaceous",
+    "interval": "ca. 95–80 Ma (model-dependent)",
+    "summary": "Semail ophiolite formation and obduction; timing and subduction models remain debated.",
+    "sources": [
+      "ophiolite2025",
+      "obduction2026"
+    ]
+  },
+  {
+    "name": "Cenozoic",
+    "interval": "Paleogene–present",
+    "summary": "Post-obduction uplift, exhumation, landscape development and modern deformation.",
+    "sources": [
+      "mountains2021",
+      "obduction2026"
+    ]
+  }
+]

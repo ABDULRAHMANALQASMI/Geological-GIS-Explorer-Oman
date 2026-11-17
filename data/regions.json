@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Jebel Akhdar",
+    "region": "Northern Oman",
+    "description": "Arabian shelf-carbonate succession and tectonic dome; stratigraphic windows inform margin evolution.",
+    "sources": [
+      "ophiolite2025",
+      "tectonic2020",
+      "mountains2021"
+    ],
+    "geolocation": null,
+    "geometry_status": "No independently verified feature geometry bundled"
+  },
+  {
+    "name": "Saih Hatat",
+    "region": "NE Oman",
+    "description": "Exhumed metamorphic rocks and high-pressure units within tectonic dome.",
+    "sources": [
+      "ophiolite2025",
+      "tectonic2020"
+    ],
+    "geolocation": null,
+    "geometry_status": "No independently verified feature geometry bundled"
+  },
+  {
+    "name": "Hajar Mountains",
+    "region": "Northern Oman",
+    "description": "Regional record of Semail ophiolite emplacement over Arabian margin and later uplift.",
+    "sources": [
+      "ophiolite2025",
+      "mountains2021"
+    ],
+    "geolocation": null,
+    "geometry_status": "No independently verified feature geometry bundled"
+  },
+  {
+    "name": "Huqf region",
+    "region": "East-central Oman",
+    "description": "Precambrian outcrops and basin sequences including Huqf Supergroup.",
+    "sources": [
+      "huqf2007",
+      "nafun2020"
+    ],
+    "geolocation": null,
+    "geometry_status": "No independently verified feature geometry bundled"
+  },
+  {
+    "name": "Dhofar Mountains",
+    "region": "Southern Oman",
+    "description": "Southern mountain belt; site-scale formations not catalogued without verified public mapping.",
+    "sources": [
+      "memgeology"
+    ],
+    "geolocation": null,
+    "geometry_status": "No independently verified feature geometry bundled"
+  }
+]

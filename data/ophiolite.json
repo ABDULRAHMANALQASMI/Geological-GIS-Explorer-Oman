@@ -1,0 +1,66 @@
+[
+  {
+    "number": "01",
+    "name": "Pelagic cover",
+    "lithology": "Chert and pelagic marine sediments",
+    "description": "Oceanic sedimentary cover",
+    "source": "ophiolite2025",
+    "warning": "Idealized reference sequence, not a measured section at a single Oman outcrop"
+  },
+  {
+    "number": "02",
+    "name": "Pillow basalts",
+    "lithology": "Submarine lava flows",
+    "description": "Extrusive oceanic crust",
+    "source": "ophiolite2025",
+    "warning": "Idealized reference sequence, not a measured section at a single Oman outcrop"
+  },
+  {
+    "number": "03",
+    "name": "Sheeted dikes",
+    "lithology": "Subvertical mafic dike complex",
+    "description": "Feeder system",
+    "source": "ophiolite2025",
+    "warning": "Idealized reference sequence, not a measured section at a single Oman outcrop"
+  },
+  {
+    "number": "04",
+    "name": "Isotropic gabbro",
+    "lithology": "Coarse mafic intrusive rocks",
+    "description": "Oceanic crust",
+    "source": "ophiolite2025",
+    "warning": "Idealized reference sequence, not a measured section at a single Oman outcrop"
+  },
+  {
+    "number": "05",
+    "name": "Layered gabbro",
+    "lithology": "Layered cumulate mafic rocks",
+    "description": "Lower oceanic crust",
+    "source": "ophiolite2025",
+    "warning": "Idealized reference sequence, not a measured section at a single Oman outcrop"
+  },
+  {
+    "number": "06",
+    "name": "Dunite transition",
+    "lithology": "Ultramafic rock",
+    "description": "Mantle-crust transition",
+    "source": "ophiolite2025",
+    "warning": "Idealized reference sequence, not a measured section at a single Oman outcrop"
+  },
+  {
+    "number": "07",
+    "name": "Harzburgite mantle",
+    "lithology": "Depleted ultramafic peridotite",
+    "description": "Mantle lithosphere",
+    "source": "ophiolite2025",
+    "warning": "Idealized reference sequence, not a measured section at a single Oman outcrop"
+  },
+  {
+    "number": "08",
+    "name": "Metamorphic sole",
+    "lithology": "Metamorphosed rocks below thrust",
+    "description": "Tectonic base",
+    "source": "ophiolite2025",
+    "warning": "Idealized reference sequence, not a measured section at a single Oman outcrop"
+  }
+]

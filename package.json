@@ -1,0 +1,11 @@
+{
+  "name": "geological-gis-explorer-oman",
+  "private": true,
+  "version": "4.0.0",
+  "description": "Static frontend quality checks; no runtime npm dependencies",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/verify.mjs",
+    "check": "node --check app.js && npm test"
+  }
+}

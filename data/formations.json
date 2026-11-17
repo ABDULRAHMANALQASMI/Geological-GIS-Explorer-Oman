@@ -1,0 +1,1164 @@
+[
+  {
+    "id": "abu-mahara",
+    "name": "Abu Mahara",
+    "group": "Abu Mahara",
+    "age": "Neoproterozoic · Cryogenian",
+    "lithology": "Glaciogenic diamictite and siliciclastics",
+    "environment": "Glacial to marine",
+    "description": "Lower Huqf package records Neoproterozoic glaciation and basin development.",
+    "role": "Not assigned",
+    "rank": "Group",
+    "sources": [
+      "huqf2007",
+      "nafun2020"
+    ],
+    "source": "huqf2007",
+    "reference": "huqf2007; nafun2020",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "masirah-bay",
+    "name": "Masirah Bay",
+    "group": "Abu Mahara",
+    "age": "Neoproterozoic",
+    "lithology": "Siliciclastic / glaciogenic succession",
+    "environment": "Basinal and postglacial marine",
+    "description": "Public Huqf literature documents early Neoproterozoic stratigraphy and basin history.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "huqf2007"
+    ],
+    "source": "huqf2007",
+    "reference": "huqf2007",
+    "confidence": "regional-background",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "nafun",
+    "name": "Nafun",
+    "group": "Nafun",
+    "age": "Neoproterozoic · Ediacaran",
+    "lithology": "Carbonates and siliciclastics",
+    "environment": "Transgressive platform and marine",
+    "description": "Postglacial carbonate–siliciclastic succession above Abu Mahara.",
+    "role": "Not assigned",
+    "rank": "Group",
+    "sources": [
+      "huqf2007",
+      "nafun2020"
+    ],
+    "source": "huqf2007",
+    "reference": "huqf2007; nafun2020",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "khufai",
+    "name": "Khufai",
+    "group": "Nafun",
+    "age": "Ediacaran",
+    "lithology": "Carbonate",
+    "environment": "Marine platform",
+    "description": "Part of the Nafun carbonate–siliciclastic succession in exposed and subsurface Oman.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "nafun2020",
+      "huqf2007"
+    ],
+    "source": "nafun2020",
+    "reference": "nafun2020; huqf2007",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "shuram",
+    "name": "Shuram",
+    "group": "Nafun",
+    "age": "Ediacaran",
+    "lithology": "Carbonate and siliciclastic",
+    "environment": "Marine",
+    "description": "Nafun Group unit deposited during Neoproterozoic marine sedimentation.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "nafun2020",
+      "huqf2007"
+    ],
+    "source": "nafun2020",
+    "reference": "nafun2020; huqf2007",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "buah",
+    "name": "Buah",
+    "group": "Nafun",
+    "age": "Ediacaran",
+    "lithology": "Carbonates",
+    "environment": "Marine shelf",
+    "description": "An upper Nafun unit within the Huqf succession.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "nafun2020",
+      "huqf2007"
+    ],
+    "source": "nafun2020",
+    "reference": "nafun2020; huqf2007",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "ara",
+    "name": "Ara",
+    "group": "Ara",
+    "age": "Ediacaran–Early Cambrian",
+    "lithology": "Evaporites, carbonates and organic shales",
+    "environment": "Restricted basin / platform",
+    "description": "Upper Huqf package with carbonate–evaporite architecture and salt-bearing troughs.",
+    "role": "Petroleum system context",
+    "rank": "Group",
+    "sources": [
+      "huqf2007"
+    ],
+    "source": "huqf2007",
+    "reference": "huqf2007",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "amin",
+    "name": "Amin",
+    "group": "Mahatta Humaid",
+    "age": "Cambrian",
+    "lithology": "Sandstone",
+    "environment": "Continental, aeolian/alluvial",
+    "description": "Amin sandstones are described among lower Haima reservoir intervals.",
+    "role": "Reservoir interval in literature",
+    "rank": "Formation",
+    "sources": [
+      "haima2004"
+    ],
+    "source": "haima2004",
+    "reference": "haima2004",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "miqrat",
+    "name": "Miqrat",
+    "group": "Mahatta Humaid",
+    "age": "Cambrian–Ordovician (regional usage)",
+    "lithology": "Sandstone, shale and siltstone",
+    "environment": "Continental to marginal marine",
+    "description": "Miqrat is an important lower Paleozoic siliciclastic interval in Haima studies.",
+    "role": "Reservoir in published examples",
+    "rank": "Formation",
+    "sources": [
+      "haima2004"
+    ],
+    "source": "haima2004",
+    "reference": "haima2004",
+    "confidence": "age-varies-by-scheme",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "al-bashair",
+    "name": "Al Bashair",
+    "group": "Andam",
+    "age": "Cambrian–Ordovician (regional usage)",
+    "lithology": "Shale / siliciclastics",
+    "environment": "Marine-influenced",
+    "description": "Al Bashair shales are described as a regional sealing interval within the Haima succession.",
+    "role": "Seal in literature",
+    "rank": "Member",
+    "sources": [
+      "haima2004"
+    ],
+    "source": "haima2004",
+    "reference": "haima2004",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "barik-sandstone",
+    "name": "Barik Sandstone",
+    "group": "Andam",
+    "age": "Cambrian–Ordovician (regional usage)",
+    "lithology": "Sandstone",
+    "environment": "Fluvial–deltaic to marine influenced",
+    "description": "Haima sandstone reservoir interval reported in subsurface northern Oman.",
+    "role": "Reservoir in literature",
+    "rank": "Member",
+    "sources": [
+      "haima2004"
+    ],
+    "source": "haima2004",
+    "reference": "haima2004",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "ghudun",
+    "name": "Ghudun",
+    "group": "Mahatta Humaid",
+    "age": "Early Paleozoic",
+    "lithology": "Sandstone and siltstone",
+    "environment": "Siliciclastic basin",
+    "description": "Public Haima basin studies include the Ghudun sandstone reservoir interval.",
+    "role": "Reservoir in literature",
+    "rank": "Formation",
+    "sources": [
+      "haima2004",
+      "haimadict"
+    ],
+    "source": "haima2004",
+    "reference": "haima2004; haimadict",
+    "confidence": "group-placement-varies",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "al-khlata",
+    "name": "Al Khlata",
+    "group": "Haushi",
+    "age": "Late Carboniferous–Early Permian",
+    "lithology": "Diamictite, sandstone, shale",
+    "environment": "Glaciogenic / glacially influenced",
+    "description": "Glaciogenic clastic record of Late Paleozoic Gondwana glaciation in Oman.",
+    "role": "Reservoir intervals in some fields",
+    "rank": "Formation",
+    "sources": [
+      "haushi2024",
+      "scharf2021map"
+    ],
+    "source": "haushi2024",
+    "reference": "haushi2024",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence.",
+    "published_map_legend_no": 9,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "gharif",
+    "name": "Gharif",
+    "group": "Haushi",
+    "age": "Permian",
+    "lithology": "Sandstone, shale, minor limestone",
+    "environment": "Fluvial, coastal plain and marginal marine",
+    "description": "Post-glacial warming recorded in fluvial and marginal marine sedimentation.",
+    "role": "Reservoir intervals in literature",
+    "rank": "Formation",
+    "sources": [
+      "haushi2024"
+    ],
+    "source": "haushi2024",
+    "reference": "haushi2024",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "mahil",
+    "name": "Mahil",
+    "group": "Akhdar",
+    "age": "Triassic",
+    "lithology": "Dolostone / carbonate",
+    "environment": "Restricted to open carbonate shelf",
+    "description": "Triassic carbonate unit in central Oman mountain stratigraphy.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "jurassic2017",
+      "ophiolite2025",
+      "scharf2021map"
+    ],
+    "source": "jurassic2017",
+    "reference": "jurassic2017; ophiolite2025",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence.",
+    "published_map_legend_no": 11,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "mafraq",
+    "name": "Mafraq",
+    "group": "Sahtan",
+    "age": "Jurassic (lower/upper member schemes)",
+    "lithology": "Sandstone, carbonate and mixed siliciclastics",
+    "environment": "Coastal to shallow marine",
+    "description": "Mafraq underlies Dhruma in the Middle–Upper Jurassic Sahtan succession.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "jurassic2017",
+      "sahtan2017",
+      "scharf2021map"
+    ],
+    "source": "jurassic2017",
+    "reference": "jurassic2017; sahtan2017",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence.",
+    "published_map_legend_no": 12,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "dhruma",
+    "name": "Dhruma",
+    "group": "Sahtan",
+    "age": "Middle Jurassic",
+    "lithology": "Limestone / carbonate ramp",
+    "environment": "Epeiric carbonate ramp",
+    "description": "Middle Jurassic formation investigated by high-resolution facies and sequence stratigraphy.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "sahtan2017",
+      "jurassic2017",
+      "scharf2021map"
+    ],
+    "source": "sahtan2017",
+    "reference": "sahtan2017; jurassic2017",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence.",
+    "published_map_legend_no": 12,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "tuwaiq-mountain",
+    "name": "Tuwaiq Mountain",
+    "group": "Sahtan",
+    "age": "Jurassic",
+    "lithology": "Carbonate",
+    "environment": "Shallow marine shelf",
+    "description": "Jurassic carbonate platform unit above Dhruma in regional sequences.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "jurassic2017",
+      "sahtan2017"
+    ],
+    "source": "jurassic2017",
+    "reference": "jurassic2017; sahtan2017",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "hanifa",
+    "name": "Hanifa",
+    "group": "Sahtan",
+    "age": "Upper Jurassic",
+    "lithology": "Limestone / carbonate",
+    "environment": "Marine platform to intrashelf",
+    "description": "Jurassic formation addressed in Oman regional sequence frameworks.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "jurassic2017",
+      "sahtan2017"
+    ],
+    "source": "jurassic2017",
+    "reference": "jurassic2017; sahtan2017",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "jubaila",
+    "name": "Jubaila",
+    "group": "Sahtan",
+    "age": "Upper Jurassic",
+    "lithology": "Carbonate",
+    "environment": "Marine platform",
+    "description": "Upper Jurassic carbonate interval of the regional Sahtan succession.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "jurassic2017",
+      "sahtan2017"
+    ],
+    "source": "jurassic2017",
+    "reference": "jurassic2017; sahtan2017",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "rayda",
+    "name": "Rayda",
+    "group": "Kahmah",
+    "age": "Lower Cretaceous",
+    "lithology": "Limestone",
+    "environment": "Drowned carbonate platform / marine",
+    "description": "Lower Cretaceous Rayda records carbonate-platform evolution and drowning.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "shuaiba1993",
+      "shuaiba2019"
+    ],
+    "source": "shuaiba1993",
+    "reference": "shuaiba1993; shuaiba2019",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "kharaib",
+    "name": "Kharaib",
+    "group": "Kahmah",
+    "age": "Lower Cretaceous",
+    "lithology": "Carbonate",
+    "environment": "Shallow marine platform",
+    "description": "Carbonate platform development prior to Shu’aiba in the northeastern Arabian margin.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "shuaiba2019",
+      "shuaiba1993"
+    ],
+    "source": "shuaiba2019",
+    "reference": "shuaiba2019; shuaiba1993",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "shuaiba",
+    "name": "Shuaiba",
+    "group": "Kahmah",
+    "age": "Lower Cretaceous · Aptian",
+    "lithology": "Limestone / platform carbonates",
+    "environment": "Carbonate platform and margin",
+    "description": "Lower Cretaceous carbonate unit with heterogeneity controlled by platform processes.",
+    "role": "Reservoir facies in petroleum literature",
+    "rank": "Formation",
+    "sources": [
+      "shuaiba2019",
+      "shuaiba1993"
+    ],
+    "source": "shuaiba2019",
+    "reference": "shuaiba2019; shuaiba1993",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "nahr-umr",
+    "name": "Nahr Umr",
+    "group": "Wasia",
+    "age": "Cretaceous · Albian",
+    "lithology": "Shale / siliciclastic",
+    "environment": "Marine transgression",
+    "description": "A siliciclastic interval below the carbonate-dominated Natih Formation.",
+    "role": "Not assigned",
+    "rank": "Formation",
+    "sources": [
+      "natih2016",
+      "shuaiba1993",
+      "scharf2021map"
+    ],
+    "source": "natih2016",
+    "reference": "natih2016; shuaiba1993",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence.",
+    "published_map_legend_no": 15,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "natih",
+    "name": "Natih",
+    "group": "Wasia",
+    "age": "Upper Albian–Middle Turonian",
+    "lithology": "Limestone, organic-rich carbonate and marl",
+    "environment": "Carbonate ramps / intrashelf basins",
+    "description": "Variable shelf and intrashelf facies include reservoir, source and seal components.",
+    "role": "Reservoir / source / seal facies depending on subunit",
+    "rank": "Formation",
+    "sources": [
+      "natih2016",
+      "natih2002",
+      "scharf2021map"
+    ],
+    "source": "natih2016",
+    "reference": "natih2016; natih2002",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence.",
+    "published_map_legend_no": 16,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "hawasina-succession",
+    "name": "Hawasina succession",
+    "group": "Hawasina",
+    "age": "Triassic–Cretaceous",
+    "lithology": "Pelagic chert, carbonate, deep-water sediments",
+    "environment": "Deep-marine Neo-Tethyan basin",
+    "description": "Distal ocean-margin sedimentary thrust sheets, tectonically emplaced beneath ophiolite.",
+    "role": "Not assigned",
+    "rank": "Tectonostratigraphic assemblage",
+    "sources": [
+      "ophiolite2025",
+      "tectonic2020"
+    ],
+    "source": "ophiolite2025",
+    "reference": "ophiolite2025; tectonic2020",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "haybi-complex",
+    "name": "Haybi Complex",
+    "group": "Haybi",
+    "age": "Triassic–Cretaceous",
+    "lithology": "Volcanics, cherts, exotic limestones",
+    "environment": "Oceanic seamounts and deep-water",
+    "description": "Structurally defined complex associated with ophiolite and Hawasina allochthons.",
+    "role": "Not assigned",
+    "rank": "Tectonic complex",
+    "sources": [
+      "ophiolite2025"
+    ],
+    "source": "ophiolite2025",
+    "reference": "ophiolite2025",
+    "confidence": "literature-supported",
+    "disclaimer": "Regional synthesis only; local variation and correlation require site-specific evidence."
+  },
+  {
+    "id": "mistal",
+    "name": "Mistal",
+    "group": "Huqf exposures",
+    "age": "Neoproterozoic",
+    "lithology": "Not specified in the published map legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Mistal is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 1,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "hajir",
+    "name": "Hajir",
+    "group": "Huqf exposures",
+    "age": "Neoproterozoic",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Hajir is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 2,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "mu-aydin",
+    "name": "Mu’aydin",
+    "group": "Huqf exposures",
+    "age": "Neoproterozoic",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Mu’aydin is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 3,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "kharus",
+    "name": "Kharus",
+    "group": "Huqf exposures",
+    "age": "Neoproterozoic",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Kharus is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 4,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "fara",
+    "name": "Fara",
+    "group": "Huqf exposures",
+    "age": "Neoproterozoic–Early Cambrian",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Neoproterozoic–Early Cambrian geological unit mapped within the Jabal Akhdar dome.",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 5,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "hatat",
+    "name": "Hatat",
+    "group": "Huqf exposures",
+    "age": "Neoproterozoic",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Hatat is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 6,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "hiyam",
+    "name": "Hiyam",
+    "group": "Huqf exposures",
+    "age": "Neoproterozoic",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Hiyam is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 7,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "amdeh",
+    "name": "Amdeh",
+    "group": "Huqf exposures",
+    "age": "Cambrian–Middle Ordovician",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Paleozoic succession in Saih Hatat mapped as Autochthonous Unit A in the reference figure.",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 8,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "saiq",
+    "name": "Saiq",
+    "group": "Akhdar",
+    "age": "Middle–Upper Permian",
+    "lithology": "Carbonate platform (regional surface succession)",
+    "environment": "See reference study for regional geological context",
+    "description": "Permian carbonate-platform succession mapped across the Jabal Akhdar and Saih Hatat domes.",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 10,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "al-jil",
+    "name": "Al-Jil",
+    "group": "Hawasina — Hamrat Duru",
+    "age": "Upper Permian–Middle Triassic",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Al-Jil is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 18,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "matbat",
+    "name": "Matbat",
+    "group": "Hawasina — Hamrat Duru",
+    "age": "Upper Triassic–Lower Jurassic",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Matbat is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 19,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "guwayza",
+    "name": "Guwayza",
+    "group": "Hawasina — Hamrat Duru",
+    "age": "Bathonian–Kimmeridgian",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Guwayza is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 20,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "sid-r",
+    "name": "Sid’r",
+    "group": "Hawasina — Hamrat Duru",
+    "age": "Oxfordian–Aptian/Albian",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Sid’r is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 21,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "nayid",
+    "name": "Nayid",
+    "group": "Hawasina — Hamrat Duru",
+    "age": "Albian–Santonian (?)",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Nayid is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 22,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "sayfam",
+    "name": "Sayfam",
+    "group": "Hawasina — Al Aridh",
+    "age": "Middle Triassic–Upper Triassic",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Sayfam is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 23,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "buwaydah",
+    "name": "Buwaydah",
+    "group": "Hawasina — Al Aridh",
+    "age": "Lower–Middle Jurassic",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Buwaydah is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 24,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "al-ghafat-musallah",
+    "name": "Al-Ghafat & Musallah",
+    "group": "Hawasina — Al Aridh",
+    "age": "Berriasian–Santonian",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Al-Ghafat & Musallah is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 25,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "baid",
+    "name": "Baid",
+    "group": "Hawasina — Umar",
+    "age": "Middle–Upper Permian",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Baid is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 26,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "misfah",
+    "name": "Misfah",
+    "group": "Hawasina — Umar",
+    "age": "Ladinian (?)–Bajocian",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Misfah is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 27,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "nadan",
+    "name": "Nadan",
+    "group": "Hawasina — Umar",
+    "age": "Oxfordian–Valanginian",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Nadan is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 28,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "safil",
+    "name": "Safil",
+    "group": "Hawasina — Umar",
+    "age": "Cenomanian–Turonian",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Safil is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 29,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "sinni",
+    "name": "Sinni",
+    "group": "Hawasina — Umar",
+    "age": "Triassic",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Sinni is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 30,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "aqil",
+    "name": "Aqil",
+    "group": "Hawasina — Umar",
+    "age": "Triassic–Aptian",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Aqil is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 31,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "muti",
+    "name": "Muti",
+    "group": "Aruma",
+    "age": "Coniacian–Campanian",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Muti is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 17,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "al-khod-qahlah",
+    "name": "Al-Khod & Qahlah",
+    "group": "Aruma",
+    "age": "Upper Campanian–Maastrichtian",
+    "lithology": "Not specified in the published map legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Al-Khod & Qahlah is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 43,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "jafnayn",
+    "name": "Jafnayn",
+    "group": "Neoautochthonous cover",
+    "age": "Upper Paleocene–Lower Eocene",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Jafnayn is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 44,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "abat",
+    "name": "Abat",
+    "group": "Neoautochthonous cover",
+    "age": "Upper Paleocene–Lower Eocene",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Abat is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 45,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "rusayl",
+    "name": "Rusayl",
+    "group": "Neoautochthonous cover",
+    "age": "Lower–Middle Eocene",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Rusayl is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 46,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "seeb",
+    "name": "Seeb",
+    "group": "Neoautochthonous cover",
+    "age": "Middle–Upper Eocene",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Seeb is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 47,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "shama",
+    "name": "Shama",
+    "group": "Neoautochthonous cover",
+    "age": "Upper Eocene–Oligocene",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Shama is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 48,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "tahwah-mam-reefs",
+    "name": "Tahwah & MAM reefs",
+    "group": "Neoautochthonous cover",
+    "age": "Upper Eocene–Lower Miocene",
+    "lithology": "Reef-associated units; source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Tahwah & MAM reefs is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 49,
+    "published_map_source": "scharf2021map"
+  },
+  {
+    "id": "barzaman",
+    "name": "Barzaman",
+    "group": "Neoautochthonous cover",
+    "age": "Middle Miocene (?)–Pliocene",
+    "lithology": "Not specified in source figure legend",
+    "environment": "See reference study for regional geological context",
+    "description": "Barzaman is identified in the geological map legend of Jabal Akhdar and Saih Hatat domes. Formation boundaries, tectonic position and stratigraphic correlations are documented on the published map (Figure A.1).",
+    "role": "Mapped regional stratigraphic unit",
+    "rank": "Formation or mapped lithostratigraphic unit (verify rank for compound names)",
+    "sources": [
+      "scharf2021map"
+    ],
+    "source": "scharf2021map",
+    "reference": "scharf2021map",
+    "confidence": "published-map-legend",
+    "disclaimer": "Unit identification/age inferred only from the published 2021 figure legend; not a well-specific observation.",
+    "published_map_legend_no": 50,
+    "published_map_source": "scharf2021map"
+  }
+]

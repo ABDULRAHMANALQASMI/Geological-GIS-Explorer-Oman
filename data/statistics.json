@@ -1,0 +1,74 @@
+[
+  {
+    "label": "Oil and condensate production",
+    "value": 365.8,
+    "unit": "million bbl",
+    "year": 2025,
+    "source": "ncsi2026",
+    "context": "Calendar year 2025; NCSI provisional, includes condensate",
+    "category": "production"
+  },
+  {
+    "label": "Average oil & condensate",
+    "value": 1002.1,
+    "unit": "thousand bbl/day",
+    "year": 2025,
+    "source": "memmetrics",
+    "context": "Official MEM dashboard; 2025 average",
+    "category": "production"
+  },
+  {
+    "label": "Oil + condensate reserves",
+    "value": 4728,
+    "unit": "million bbl",
+    "year": 2025,
+    "source": "memmetrics",
+    "context": "Official reported reserves; not USGS undiscovered resource assessment",
+    "category": "reserves"
+  },
+  {
+    "label": "Natural gas daily output",
+    "value": 151.2,
+    "unit": "million m³/day",
+    "year": 2025,
+    "source": "memmetrics",
+    "context": "Official MEM 2025 report; reporting period distinct from recent 2026 partial-year",
+    "category": "production"
+  },
+  {
+    "label": "Exploration + appraisal wells",
+    "value": 64,
+    "unit": "wells",
+    "year": 2025,
+    "source": "mem2025",
+    "context": "47 oil and 17 gas wells according to MEM 2025 summary",
+    "category": "drilling"
+  },
+  {
+    "label": "LNG exports",
+    "value": 11.3,
+    "unit": "million metric tonnes",
+    "year": 2025,
+    "source": "ncsi2026",
+    "context": "NCSI 2026 yearbook; 2025 provisional",
+    "category": "exports"
+  },
+  {
+    "label": "Undiscovered conventional oil mean",
+    "value": 1.2,
+    "unit": "billion bbl",
+    "year": 2023,
+    "source": "usgsfact",
+    "context": "USGS assessed 2023, published 2025; technically recoverable undiscovered RESOURCE, not reserves",
+    "category": "undiscovered-resources"
+  },
+  {
+    "label": "Undiscovered conventional gas mean",
+    "value": 6.4,
+    "unit": "Tcf",
+    "year": 2023,
+    "source": "usgsfact",
+    "context": "USGS assessed 2023, published 2025; technically recoverable undiscovered RESOURCE",
+    "category": "undiscovered-resources"
+  }
+]

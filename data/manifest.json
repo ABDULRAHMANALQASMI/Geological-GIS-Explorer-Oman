@@ -1,0 +1,87 @@
+{
+  "project": "Geological GIS Explorer Oman V4.0",
+  "last_research_check": "2026-11-17",
+  "dataset_sources": 26,
+  "datasets": [
+    {
+      "name": "groups.json",
+      "records": 12,
+      "data_rights": "Original research summaries; external facts attributed by source IDs"
+    },
+    {
+      "name": "formations.json",
+      "records": 27,
+      "data_rights": "Original research summaries; external facts attributed by source IDs"
+    },
+    {
+      "name": "statistics.json",
+      "records": 8,
+      "data_rights": "Original research summaries; external facts attributed by source IDs"
+    },
+    {
+      "name": "sources.json",
+      "records": 26,
+      "data_rights": "Original research summaries; external facts attributed by source IDs"
+    },
+    {
+      "name": "concessions.json",
+      "records": 44,
+      "data_rights": "Original research summaries; external facts attributed by source IDs"
+    },
+    {
+      "name": "operators.json",
+      "records": 24,
+      "data_rights": "Original research summaries; external facts attributed by source IDs"
+    },
+    {
+      "name": "partnerships.json",
+      "records": 12,
+      "data_rights": "Original research summaries; external facts attributed by source IDs"
+    },
+    {
+      "name": "events.json",
+      "records": 6,
+      "data_rights": "Original research summaries; external facts attributed by source IDs"
+    },
+    {
+      "name": "regions.json",
+      "records": 5,
+      "data_rights": "Original research summaries; external facts attributed by source IDs"
+    },
+    {
+      "name": "ophiolite.json",
+      "records": 8,
+      "data_rights": "Original research summaries; external facts attributed by source IDs"
+    }
+  ],
+  "geometry": {
+    "name": "oman-boundary.geojson",
+    "rights": "Natural Earth public domain",
+    "geometry_role": "Coarse country outline; NOT petroleum or rock boundaries"
+  },
+  "concession_geometries_included": 0,
+  "v4_counts": {
+    "formations": 59,
+    "groups": 18,
+    "source_records": 29,
+    "historical_and_tender_concession_records": 44,
+    "published_map_legend_cross_references": 38
+  },
+  "published_cartography": [
+    {
+      "url": "https://opaloman.om/web/image/66528-79402fc1/MAP.png",
+      "print_date": "2025-12-24",
+      "mode": "externally hosted map image; not GeoJSON"
+    },
+    {
+      "url": "https://opaloman.om/theme_opal/static/src/img/files/Concession_Map_21_Sep_2021.pdf",
+      "print_date": "2021-09-21",
+      "mode": "linked archived source PDF"
+    },
+    {
+      "url": "https://doi.org/10.1144/M54.7",
+      "date": "2021",
+      "mode": "attributed CC BY4 open-access scientific geology figure"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+[
+  {
+    "group": "Wasia",
+    "age": "Middle–Late Cretaceous",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Nahr Umr",
+      "Natih"
+    ],
+    "sources": [
+      "natih2016",
+      "shuaiba1993",
+      "natih2002"
+    ]
+  },
+  {
+    "group": "Kahmah",
+    "age": "Early Cretaceous",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Rayda",
+      "Kharaib",
+      "Shuaiba"
+    ],
+    "sources": [
+      "shuaiba1993",
+      "shuaiba2019"
+    ]
+  },
+  {
+    "group": "Sahtan",
+    "age": "Jurassic",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Mafraq",
+      "Dhruma",
+      "Tuwaiq Mountain",
+      "Hanifa",
+      "Jubaila"
+    ],
+    "sources": [
+      "jurassic2017",
+      "sahtan2017"
+    ]
+  },
+  {
+    "group": "Akhdar",
+    "age": "Permian–Triassic (regional usage)",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Mahil",
+      "Saiq"
+    ],
+    "sources": [
+      "jurassic2017",
+      "ophiolite2025",
+      "scharf2021map"
+    ]
+  },
+  {
+    "group": "Haushi",
+    "age": "Late Carboniferous–Permian",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Al Khlata",
+      "Gharif"
+    ],
+    "sources": [
+      "haushi2024"
+    ]
+  },
+  {
+    "group": "Hawasina",
+    "age": "Triassic–Cretaceous · tectonic assemblage",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Hawasina succession"
+    ],
+    "sources": [
+      "ophiolite2025",
+      "tectonic2020"
+    ]
+  },
+  {
+    "group": "Haybi",
+    "age": "Triassic–Cretaceous · tectonic complex",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Haybi Complex"
+    ],
+    "sources": [
+      "ophiolite2025"
+    ]
+  },
+  {
+    "group": "Andam",
+    "age": "Early Paleozoic · regional nomenclature",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Al Bashair",
+      "Barik Sandstone"
+    ],
+    "sources": [
+      "haima2004"
+    ]
+  },
+  {
+    "group": "Mahatta Humaid",
+    "age": "Cambrian–Ordovician · regional",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Amin",
+      "Miqrat",
+      "Ghudun"
+    ],
+    "sources": [
+      "haima2004",
+      "haimadict"
+    ]
+  },
+  {
+    "group": "Ara",
+    "age": "Late Neoproterozoic–Cambrian",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Ara"
+    ],
+    "sources": [
+      "huqf2007"
+    ]
+  },
+  {
+    "group": "Nafun",
+    "age": "Neoproterozoic",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Nafun",
+      "Khufai",
+      "Shuram",
+      "Buah"
+    ],
+    "sources": [
+      "huqf2007",
+      "nafun2020"
+    ]
+  },
+  {
+    "group": "Abu Mahara",
+    "age": "Neoproterozoic",
+    "summary": "Regional units summarized from linked, independently published research. Geological boundaries and correlations vary by region and lithostratigraphic scheme.",
+    "formations": [
+      "Abu Mahara",
+      "Masirah Bay"
+    ],
+    "sources": [
+      "huqf2007",
+      "nafun2020"
+    ]
+  },
+  {
+    "group": "Huqf exposures",
+    "age": "Multiple mapped ages",
+    "summary": "Published mapped units in Scharf et al. (2021) Appendix Figure A.1. Unit ages and regional correlations are interpreted within the study area and should not be extrapolated to all Oman.",
+    "formations": [
+      "Mistal",
+      "Hajir",
+      "Mu’aydin",
+      "Kharus",
+      "Fara",
+      "Hatat",
+      "Hiyam",
+      "Amdeh"
+    ],
+    "sources": [
+      "scharf2021map"
+    ]
+  },
+  {
+    "group": "Hawasina — Hamrat Duru",
+    "age": "Multiple mapped ages",
+    "summary": "Published mapped units in Scharf et al. (2021) Appendix Figure A.1. Unit ages and regional correlations are interpreted within the study area and should not be extrapolated to all Oman.",
+    "formations": [
+      "Al-Jil",
+      "Matbat",
+      "Guwayza",
+      "Sid’r",
+      "Nayid"
+    ],
+    "sources": [
+      "scharf2021map"
+    ]
+  },
+  {
+    "group": "Hawasina — Al Aridh",
+    "age": "Multiple mapped ages",
+    "summary": "Published mapped units in Scharf et al. (2021) Appendix Figure A.1. Unit ages and regional correlations are interpreted within the study area and should not be extrapolated to all Oman.",
+    "formations": [
+      "Sayfam",
+      "Buwaydah",
+      "Al-Ghafat & Musallah"
+    ],
+    "sources": [
+      "scharf2021map"
+    ]
+  },
+  {
+    "group": "Hawasina — Umar",
+    "age": "Multiple mapped ages",
+    "summary": "Published mapped units in Scharf et al. (2021) Appendix Figure A.1. Unit ages and regional correlations are interpreted within the study area and should not be extrapolated to all Oman.",
+    "formations": [
+      "Baid",
+      "Misfah",
+      "Nadan",
+      "Safil",
+      "Sinni",
+      "Aqil"
+    ],
+    "sources": [
+      "scharf2021map"
+    ]
+  },
+  {
+    "group": "Aruma",
+    "age": "Multiple mapped ages",
+    "summary": "Published mapped units in Scharf et al. (2021) Appendix Figure A.1. Unit ages and regional correlations are interpreted within the study area and should not be extrapolated to all Oman.",
+    "formations": [
+      "Muti",
+      "Al-Khod & Qahlah"
+    ],
+    "sources": [
+      "scharf2021map"
+    ]
+  },
+  {
+    "group": "Neoautochthonous cover",
+    "age": "Multiple mapped ages",
+    "summary": "Published mapped units in Scharf et al. (2021) Appendix Figure A.1. Unit ages and regional correlations are interpreted within the study area and should not be extrapolated to all Oman.",
+    "formations": [
+      "Jafnayn",
+      "Abat",
+      "Rusayl",
+      "Seeb",
+      "Shama",
+      "Tahwah & MAM reefs",
+      "Barzaman"
+    ],
+    "sources": [
+      "scharf2021map"
+    ]
+  }
+]

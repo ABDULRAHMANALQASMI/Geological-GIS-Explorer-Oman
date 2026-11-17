@@ -1,0 +1,218 @@
+[
+  {
+    "name": "ARA Petroleum",
+    "blocks": "31, 44",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "BP",
+    "blocks": "61",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "CC Energy",
+    "blocks": "3, 4",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "CC Energy (2024 EPSA)",
+    "blocks": "38, 74",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Daleel",
+    "blocks": "5",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Daleel Petroleum (2024 disclosure)",
+    "blocks": "15",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "ENI",
+    "blocks": "77",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "ENI Oman",
+    "blocks": "47, 52",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Hydrocarbon Finder",
+    "blocks": "7, 15",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Maha Energy",
+    "blocks": "70",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Majan Energy",
+    "blocks": "71",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Masirah Oil",
+    "blocks": "50",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Musandam Oil & Gas Company",
+    "blocks": "8",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "OQ",
+    "blocks": "48, 60",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Occidental",
+    "blocks": "51, 53, 62, 65, 72",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Occidental Hafar LLC",
+    "blocks": "30",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Occidental Oil & Gas",
+    "blocks": "9, 27",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Oman Lasso (legacy listing)",
+    "blocks": "54",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "PETRONAS with OQ EP",
+    "blocks": "18",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Petroleb",
+    "blocks": "57",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Petroleum Development Oman",
+    "blocks": "6",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Petrotel",
+    "blocks": "17, 67",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Petrotel Oman Onshore",
+    "blocks": "39",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  },
+  {
+    "name": "Tethys Oil",
+    "blocks": "49, 56, 58",
+    "about": "Listed in a historical official concession table; not verified as current operator for each block.",
+    "source": "memblocks",
+    "url": "https://dev.mem.gov.om/Our-Business/Oil-and-Gas/Oil-and-Gas-Concessions-map",
+    "as_of": "undated legacy record",
+    "confidence": "historical-only"
+  }
+]
